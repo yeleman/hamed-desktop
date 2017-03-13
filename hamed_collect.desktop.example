@@ -1,5 +1,5 @@
 [Desktop Entry]
-Nom=Ramed-Desktop
+Name=Ramed-Desktop
 Comment=Open broser with ramed-collect
 Exec=/home/sldses/.envs/rdesktop/bin/python /home/sldses/.envs/hamed-desktop/main.py
 Icon=/home/sldses/.envs/hamed-desktop/img/logo.png
