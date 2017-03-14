@@ -14,7 +14,7 @@ if __name__ == '__main__':
 
     app = QApplication(sys.argv)
     view = QWebEngineView()
-    view.setWindowTitle("RAMED-Collect")
+    view.setWindowTitle("RAMEDCollect")
     view.setUrl(QUrl("http://ramed-server"))
     view.resize(1024, 750)
     view.show()
